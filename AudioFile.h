@@ -37,6 +37,7 @@
 #define NOMINMAX
 #endif
 
+#include <cstdint>
 #include <iostream>
 #include <vector>
 #include <cassert>
